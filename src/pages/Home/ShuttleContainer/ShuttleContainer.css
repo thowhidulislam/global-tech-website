@@ -1,0 +1,23 @@
+.shuttle-container {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+.line-container {
+    margin-right: 5px;
+}
+
+.line-1,
+.line-2,
+.line-3 {
+    width: 70px;
+    border: 2px solid #28ACE2;
+    border-radius: 5px;
+}
+
+.line-2,
+.line-3 {
+    margin-top: 8px;
+}

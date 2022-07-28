@@ -1,0 +1,12 @@
+.nav-link a {
+    color: #8FE5FF;
+    text-decoration: none;
+}
+
+.active a {
+    color: #D7F561;
+}
+
+.nav-link :hover {
+    color: #D7F561;
+}

@@ -9,9 +9,13 @@
 
 .features-list {
     width: 200px;
+    color: #8FE5FF;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     list-style-type: none;
-    color: #8FE5FF;
+}
+
+.features-list li :hover {
+    transform: translate(-5px);
 }

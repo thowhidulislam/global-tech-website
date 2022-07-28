@@ -1,0 +1,50 @@
+.primary-heading {
+    font-size: 95px;
+    font-weight: 700;
+    color: #28ACE2;
+}
+
+.highlight-heading {
+    background: linear-gradient(to right, #CBF231, #E3F891);
+    background-clip: text;
+    color: transparent;
+}
+
+.description {
+    color: #2EBBE5;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: justify;
+
+}
+
+.highlight-text {
+    color: #9EB540;
+}
+
+.btn-container {
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+.btn {
+    width: 250px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 52px;
+    cursor: pointer;
+}
+
+.support-btn {
+    margin-right: 36px;
+    background: linear-gradient(265.22deg, #DEF77D 0%, #D0F344 100%);
+    box-shadow: inset -8px -8px 16px #B6CC63, inset 8px 8px 16px rgba(255, 255, 255, 0.5);
+    border: none;
+}
+
+.mission-btn {
+    background: transparent;
+    color: #8FE5FF;
+    border: 2px solid #8FE5FF;
+}
